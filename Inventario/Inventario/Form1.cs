@@ -22,7 +22,7 @@ namespace Inventario
         private void btnIngresar_Click(object sender, EventArgs e)
         {
 
-            //Variables
+           //Variables
            string User = txtUser.Text;
            string Password = txtPassword.Text;
 

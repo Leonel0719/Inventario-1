@@ -16,5 +16,12 @@ namespace Inventario
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1 ir = new Form1();
+            ir.Show();
+            this.Hide();
+        }
     }
 }

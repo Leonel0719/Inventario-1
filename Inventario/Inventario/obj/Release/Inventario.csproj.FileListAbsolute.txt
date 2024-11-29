@@ -1,0 +1,11 @@
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\bin\Release\Inventario.exe.config
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\bin\Release\Inventario.exe
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\bin\Release\Inventario.pdb
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Release\Inventario.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Release\Inventario.Form1.resources
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Release\Inventario.Form2.resources
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Release\Inventario.Properties.Resources.resources
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Release\Inventario.csproj.GenerateResource.cache
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Release\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Release\Inventario.exe
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Release\Inventario.pdb

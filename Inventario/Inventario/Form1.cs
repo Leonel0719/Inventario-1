@@ -33,6 +33,10 @@ namespace Inventario
                 this.DialogResult = DialogResult.OK;
 
                 MessageBox.Show("Acceso concedido, Bienvenida/o");
+
+                Form2 ir = new Form2();
+                ir.Show();
+                this.Hide();
             }
             else
             {
@@ -41,6 +45,8 @@ namespace Inventario
                 txtUser.Text = "";
                 txtPassword.Text = "";
             }
+
+            
         }
     }
 }

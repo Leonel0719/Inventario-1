@@ -8,3 +8,14 @@ C:\Users\leone\OneDrive\Escritorio\Inventario\Inventario\Inventario\obj\Debug\In
 C:\Users\leone\OneDrive\Escritorio\Inventario\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
 C:\Users\leone\OneDrive\Escritorio\Inventario\Inventario\Inventario\obj\Debug\Inventario.exe
 C:\Users\leone\OneDrive\Escritorio\Inventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Debug\Inventario.Form2.resources
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\leone\OneDrive\Escritorio\Inventario-1\Inventario\Inventario\obj\Debug\Inventario.pdb
